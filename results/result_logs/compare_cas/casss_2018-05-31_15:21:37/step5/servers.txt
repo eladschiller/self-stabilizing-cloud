@@ -1,0 +1,5 @@
+pl1.uni-rostock.de
+planetlab-2.cs.ucy.ac.cy
+planetlab11.net.in.tum.de
+planetlab13.net.in.tum.de
+planet4.cs.huji.ac.il

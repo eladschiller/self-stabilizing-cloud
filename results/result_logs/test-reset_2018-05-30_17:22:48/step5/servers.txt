@@ -1,0 +1,5 @@
+planetlab-2.cs.ucy.ac.cy
+planetlab2.upm.ro
+ple1.cesnet.cz
+ple1.planet-lab.eu
+ple2.planet-lab.eu

@@ -1,0 +1,3 @@
+Average from 40 reader clients during 50 rounds:
+All: 0.7262791619300841
+Removed 2 outliers: 0.6382892901698749

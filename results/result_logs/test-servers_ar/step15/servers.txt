@@ -1,0 +1,15 @@
+planet-lab-node2.netgroup.uniroma2.it
+planetlab-1.ing.unimo.it
+planetlab-2.cs.ucy.ac.cy
+planetlab-2.ing.unimo.it
+planetlab2.upm.ro
+ple1.cesnet.cz
+ple1.planet-lab.eu
+ple2.planet-lab.eu
+ple4.planet-lab.eu
+ple44.planet-lab.eu
+planet-lab-node2.netgroup.uniroma2.it
+planetlab-1.ing.unimo.it
+planetlab-2.cs.ucy.ac.cy
+planetlab-2.ing.unimo.it
+planetlab2.upm.ro
