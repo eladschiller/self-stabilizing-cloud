@@ -1,0 +1,4 @@
+.git/
+.gitignore
+.storage/*
+__pycache__/

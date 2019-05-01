@@ -1,0 +1,12 @@
+*.pyc
+__pycache__*
+.storage/
+autogen.ini
+results/
+config/wip/*
+*.log
+config/tests/*
+*.txt
+!blacklist.txt
+**/tests_enabled/*
+!config/rsync_ignore.txt
