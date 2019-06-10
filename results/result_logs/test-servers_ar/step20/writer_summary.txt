@@ -1,3 +1,0 @@
-Average from 10 writer clients during 50 rounds:
-All: 1.0050028228759766
-Removed 2 outliers: 0.998399264117082
