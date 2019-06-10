@@ -1,0 +1,5 @@
+ple1.planet-lab.eu
+ple2.planet-lab.eu
+ple4.planet-lab.eu
+ple44.planet-lab.eu
+planet4.cs.huji.ac.il
