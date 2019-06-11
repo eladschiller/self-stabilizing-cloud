@@ -1,3 +1,0 @@
-[submodule "self-stabilizing-byzantine-fault-tolerant-state-machine-replication/BFTList"]
-	path = self-stabilizing-byzantine-fault-tolerant-state-machine-replication/BFTList
-	url = https://github.com/sspbft/BFTList.git
