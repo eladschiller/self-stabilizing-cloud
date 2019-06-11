@@ -1,12 +1,3 @@
 [submodule "BFTList"]
 	path = self-stabilizing-byzantine-fault-tolerant-state-machine-replication/BFTList
 	url = https://github.com/sspbft/BFTList.git
-[submodule "thor"]
-	path = thor
-	url = https://github.com/sspbft/thor.git
-[submodule "odin"]
-	path = odin
-	url = https://github.com/sspbft/odin.git
-[submodule "heimdall"]
-	path = heimdall
-	url = https://github.com/sspbft/heimdall.git
