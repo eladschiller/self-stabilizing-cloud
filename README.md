@@ -8,7 +8,6 @@ These pilot were developed during Chalmers master-level degree projects that wer
 
 This project was developed by Robert Gustafsson and Andreas Lindhé. It proceedings version is to appear in NETYS 2019.
 
-## Implementing Self-stabilizing Byzantine Fault-tolerant State-machine Replication 
-### (a Proof of Concept, Validation and Preliminary Evaluation)
+## Implementing Self-stabilizing Byzantine Fault-tolerant State-machine Replication (a Proof of Concept, Validation and Preliminary Evaluation)
 
 This project was developed by Axel Niklasson and Therese Petersson.
