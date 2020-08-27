@@ -1,0 +1,12 @@
+[package]
+name = "remote_starter"
+version = "0.1.0"
+authors = ["Oskar Lundström <21679735+osklunds@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.0"
+colored = "1.8.0"
+lazy_static = "1.3.0"
+ctrlc = "3.1.3"
+commons = { path = "../commons" }

@@ -1,0 +1,28 @@
+[package]
+name = "rusty_self_stabilizing_abstractions"
+version = "0.1.0"
+authors = ["Oskar Lundström <21679735+osklunds@users.noreply.github.com>"
+          , "Chaiyapruek Muangsiri <cmp.poon@gmail.com>"
+          , "Oskar Jedvert <oskar.jedvert@gmail.com"]
+edition = "2018"
+default-run = "rusty_self_stabilizing_abstractions"
+
+[dependencies]
+commons = { path = "../commons" }
+serde = { version = "1.0.94", features = ["derive"] }
+serde_json = "1.0.39"
+colored = "1.8.0"
+lazy_static = "1.3.0"
+clap = "2.33.0"
+rand = "0.7.0"
+queues = "1.0.2"
+mio  = "0.6"
+libc = "0.2"
+nix  = "0.15" 
+log  = "0.4"
+ring-channel = "0.7"
+bit-vec = "0.6.2"
+fastping-rs = "0.1.5"
+
+[profile.release]
+lto = true

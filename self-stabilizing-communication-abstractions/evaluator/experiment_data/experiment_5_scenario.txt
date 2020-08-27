@@ -1,0 +1,11 @@
+15,3,12,Algorithm4,0
+15,3,12,Algorithm4,100
+15,3,12,Algorithm4,200
+15,3,12,Algorithm4,300
+15,3,12,Algorithm4,400
+15,3,12,Algorithm4,500
+15,3,12,Algorithm4,600
+15,3,12,Algorithm4,700
+15,3,12,Algorithm4,800
+15,3,12,Algorithm4,900
+15,3,12,Algorithm4,1000
